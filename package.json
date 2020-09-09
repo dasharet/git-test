@@ -1,0 +1,24 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "\"\"\u001b[",
+  "main": "index.js",
+  "scripts": {
+    "start":"npm run Lite",
+    "test": "\u001b[A\u001b[A\u001b[3~\u001b[3~This is a test directory to learn Git and Node\u001b[B\u001b[B\u001b[A\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dindex.html\u001b[B",
+    "Lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dasharet/git-test.git"
+  },
+  "author": "Joselyn Vanegas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dasharet/git-test/issues"
+  },
+  "homepage": "https://github.com/dasharet/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
